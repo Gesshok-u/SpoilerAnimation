@@ -116,7 +116,8 @@ body {
 }
 
 .menu__link {
-    padding: 20px 30px;
+    font-size: 20px;
+    padding: 30px 40px;
     display: block;
     color: #fff;
     text-transform: uppercase;
@@ -142,7 +143,8 @@ body {
 
 .hover_text {
     color: #333;
-    padding: 20px 30px;
+    font-size: 20px;
+    padding: 30px 40px;
     display: block;
     will-change: transform;
 }
